@@ -1,6 +1,6 @@
 {
   "name": "@sishuguojixuefu/react-native-textinput",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fix react-native TextInput (copy/paste) bug inside ViewPagerAndroid",
   "main": "index.tsx",
   "scripts": {
