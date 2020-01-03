@@ -10,10 +10,10 @@
     "sishuguojixuefu": "yarn upgrade -S @sishuguojixuefu --latest",
     "veronica": "yarn upgrade -S @veronica --latest"
   },
-  "homepage": "",
+  "homepage": "https://github.com/sishuguojixuefu/react-native-textinput",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sishuguojixuefu/react-native-textinput.git"
   },
   "author": {
     "name": "杨俊宁",
