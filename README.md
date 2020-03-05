@@ -2,6 +2,6 @@
 
 > Fix react-native TextInput (copy/paste) bug inside ViewPagerAndroid
 
-```
-├── index.ts 入口文件
+```shell
+$ yarn add @sishuguojixuefu/react-native-textinput
 ```
